@@ -1,3 +1,3 @@
-hello 
-world 
-sky
+hello;
+world;
+sky;
